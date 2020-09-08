@@ -248,10 +248,9 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 25------------------
-Me
-my fave color is blue
-Feb 6, 1970
-a new line
+Marc Hermon
+I have four children ages 10-27.
+My favorite color is blue
 
 
 
