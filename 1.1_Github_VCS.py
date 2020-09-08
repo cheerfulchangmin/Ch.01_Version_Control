@@ -249,6 +249,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 25------------------
 Me
+my fave color is blue
 
 
 
