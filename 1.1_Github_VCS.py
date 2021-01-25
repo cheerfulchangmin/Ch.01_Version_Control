@@ -251,6 +251,7 @@ Tell me some interesting facts about yourself.
 This is the testing1 Branch
 Leo
 Hokkien mee
+fav anime, Naruto
 
 Marc Hermon
 I have four children ages 10-27.
