@@ -248,10 +248,10 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 25------------------
-This is the Master Branch
-me
-My fav color is blue
-pet is ant
+This is the testing1 Branch
+Leo
+Hokkien mee
+fav anime, Naruto
 
 Marc Hermon
 I have four children ages 10-27.
